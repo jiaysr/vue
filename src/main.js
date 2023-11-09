@@ -1,6 +1,6 @@
 import { createApp } from 'vue'
 // import App from './App.vue'
-import App from './components/prop/App.vue'
+import App from './components/header/app.vue'
 import './index.css'
 import  user from './components/user/user.vue'
 import ElementPlus from 'element-plus';
